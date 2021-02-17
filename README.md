@@ -1,4 +1,4 @@
-<h1>Hi, I'm Maverick Chapmi</h1>
+<h1>Hi, I'm Maverick Champi</h1>
 <p><em>Web Developer</br>
 
 </em></p>
