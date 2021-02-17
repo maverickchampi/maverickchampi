@@ -18,7 +18,7 @@ const maverickchampi = {
 
 ## 📫 Contact Me
 - LinkedIn - [Maverick Champi](https://www.linkedin.com/in/maverickchampi/)
-
+- Portfolio - [Maverick Champi](https://portfoliomaverickchampi.herokuapp.com)
 ---
 
 From [@maverickchampi](https://github.com/maverickchampi) 💻 
