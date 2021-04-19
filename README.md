@@ -9,7 +9,7 @@
 
 ```javascript
 const maverickchampi = {
-  code: ["HTML", "CSS","Javascript", "Typescript","Java","Php","Sql"],
+  code: ["React", "Javascript", "HTML", "CSS", "Typescript","Java","Php","Sql"],
   portfolio: [ 
      link: "https://portfoliomaverickchampi.herokuapp.com"
   ]
