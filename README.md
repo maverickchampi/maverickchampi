@@ -11,7 +11,7 @@
 const maverickchampi = {
   code: ["React", "Javascript", "HTML", "CSS", "Typescript","Java","Php","Sql"],
   portfolio: [ 
-     link: "https://portfoliomaverickchampi.herokuapp.com"
+     link: "https://maverick-portfolio.herokuapp.com"
   ]
 }
 ```
