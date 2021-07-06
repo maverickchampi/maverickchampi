@@ -10,15 +10,12 @@
 ```javascript
 const maverickchampi = {
   code: ["React", "Javascript", "HTML", "CSS", "Typescript","Java","Php","Sql"],
-  portfolio: [ 
-     link: "https://maverick-portfolio.herokuapp.com"
-  ]
 }
 ```
 
 ## 📫 Contact Me
 - LinkedIn - [Maverick Champi](https://www.linkedin.com/in/maverickchampi/)
-- Portfolio - [Maverick Champi](https://maverick-portfolio.herokuapp.com)
+- Portfolio - [Maverick Champi](https://maverickchampi.herokuapp.com/)
 ---
 
 From [@maverickchampi](https://github.com/maverickchampi) 💻 
