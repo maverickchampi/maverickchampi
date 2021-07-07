@@ -1,7 +1,6 @@
 <h1>Hi, I'm Maverick Champi</h1>
-<p><em>Web Developer</br>
-
-</em></p>
+<p>Web Developer</p>
+<img src="https://i.ibb.co/Rh9Ywbm/logo.png" height="64" width="64" >
 
 [![GitHub Maverick](https://img.shields.io/github/followers/maverickchampi?label=follow&style=social)](https://github.com/maverickchampi)
 
@@ -9,13 +8,13 @@
 
 ```javascript
 const maverickchampi = {
-  code: ["React", "Javascript", "HTML", "CSS", "Typescript","Java","Php","Sql"],
+  code: ["React","Angular", "Javascript", "Typescript", "HTML", "CSS","Sass"],
 }
 ```
 
-## 📫 Contact Me
-- LinkedIn - [Maverick Champi](https://www.linkedin.com/in/maverickchampi/)
-- Portfolio - [Maverick Champi](https://maverickchampi.herokuapp.com/)
----
+## 📫 Profiles
+· Portfolio : [Maverickchampi.codes](https://maverickchampi.codes)</br>
+· Linkedin : [@Maverickchampi](https://www.linkedin.com/in/maverickchampi)</br>
+· Instragram : [@Maverickchampi](https://www.instagram.com/maverickchampi)
 
 From [@maverickchampi](https://github.com/maverickchampi) 💻 
