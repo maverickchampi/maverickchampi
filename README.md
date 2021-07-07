@@ -1,6 +1,5 @@
 <h1>Hi, I'm Maverick Champi</h1>
 <p>Web Developer</p>
-<img src="https://i.ibb.co/Rh9Ywbm/logo.png" height="64" width="64" >
 
 [![GitHub Maverick](https://img.shields.io/github/followers/maverickchampi?label=follow&style=social)](https://github.com/maverickchampi)
 
