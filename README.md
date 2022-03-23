@@ -6,15 +6,15 @@
 
 ```javascript
 const maverickchampi = {
-  frontend: ["React", "Javascript", "Typescript", "Angular", "HTML", "Pug", 
-         "CSS","Sass", "Bootstrap"],
-  backend: ["NodeJs", "Spring"],
-  database: ["MongoDB","MySql"]
+  frontend: ["React", "Javascript", "Typescript", "HTML", "Pug", 
+         "CSS","Sass"],
+  backend: ["NodeJs", "NestJs"],
+  database: ["PostgreSQL","MySql", "MongoDB"]
 }
 ```
 
 ## 📫 Profiles
-· Portfolio : [Maverickchampi.codes](https://maverickchampi.codes)</br>
+· Portfolio : [Maverickchampi.codes](https://maverickchampi.github.io/portfolio)</br>
 · Linkedin : [@Maverickchampi](https://www.linkedin.com/in/maverickchampi)
 
 From [@maverickchampi](https://github.com/maverickchampi) 💻 
