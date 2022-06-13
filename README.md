@@ -14,7 +14,7 @@ const maverickchampi = {
 ```
 
 ## 📫 Profiles
-· Portfolio : [Maverickchampi.codes](https://maverickchampi.github.io/portfolio)</br>
-· Linkedin : [@Maverickchampi](https://www.linkedin.com/in/maverickchampi)
+· [Portfolio](https://maverickchampi.github.io/portfolio)</br>
+· [Linkedin](https://www.linkedin.com/in/maverickchampi)
 
 From [@maverickchampi](https://github.com/maverickchampi) 💻 
