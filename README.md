@@ -6,10 +6,9 @@
 
 ```javascript
 const maverickchampi = {
-  frontend: ["React", "Javascript", "Typescript", "HTML", "Pug", 
-         "CSS","Sass"],
-  backend: ["NodeJs", "NestJs"],
-  database: ["PostgreSQL","MySql", "MongoDB"]
+  frontend: ["ReactJs", "Javascript", "Typescript", "Redux", "React Native", "NextJs", "GraphQL", "Sass"],
+  backend: ["NodeJs", "ExpressJs", "NestJs"],
+  database: ["MySql", "PostgreSQL", "MongoDB"]
 }
 ```
 
