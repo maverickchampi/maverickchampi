@@ -1,8 +1,14 @@
-<h1>I'm Maverick Champi, JavaScript Developer <img src="https://i.ibb.co/RDXyCPK/javascript.png" width="35"></h1>
+<h1>I'm Maverick Champi, Software Developer <img src="https://i.ibb.co/RDXyCPK/javascript.png" width="35"></h1>
   
-[![GitHub Maverick](https://img.shields.io/github/followers/maverickchampi?label=follow&style=social)](https://github.com/maverickchampi)
+<p align="center">
+  <a href="https://github.com/maverickchampi">
+    <img src="https://img.shields.io/github/followers/maverickchampi?label=Follow&style=social" alt="GitHub Maverick">
+  </a>
+</p>
 
-<img align="right" src="https://i.ibb.co/rp1tLqR/cat-computer.gif" width="250"/>
+<p align="center">
+  <img src="https://i.ibb.co/rp1tLqR/cat-computer.gif" width="250"/>
+</p>
 
 ```javascript
 const maverickchampi = {
