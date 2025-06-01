@@ -19,12 +19,14 @@
 const maverickchampi = {
   frontend: [
     "ReactJs", "Javascript", "Typescript",
-    "Redux", "React Native", "Angular",
-    "NextJs", "GraphQL", "Sass"
+    "Redux", "Angular", "NextJs",
+    "GraphQL", "Sass"
+  ],
+  mobile: [
+    "React Native", "Kotlin", "Flutter"
   ],
   backend: [
-    "NodeJs", "ExpressJs", "NestJs",
-    "Java", "Spring"
+    "NodeJs", "ExpressJs", "NestJs"
   ],
   database: [
     "MySql", "PostgreSQL", "MongoDB"
@@ -39,7 +41,7 @@ const maverickchampi = {
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,redux,angular,nextjs,graphql,sass" /></a>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,mysql,postgres,mongodb" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,flutter,nodejs,express,nestjs,mysql,postgres,mongodb" /></a>
 <br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,npm,figma,postman,bash,linux,ubuntu" /></a>
 
