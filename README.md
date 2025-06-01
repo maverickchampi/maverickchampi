@@ -17,11 +17,16 @@
 
 ```javascript
 const maverickchampi = {
-  frontend: ["ReactJs", "Javascript", "Typescript", "Redux",
-              "React Native", "Angular", "NextJs", "GraphQL", "Sass"],
+  frontend: [
+              "ReactJs", "Javascript", "Typescript", "Redux",
+              "React Native", "Angular", "NextJs", "GraphQL", "Sass"
+            ],
   backend: ["NodeJs", "ExpressJs", "NestJs"],
   database: ["MySql", "PostgreSQL", "MongoDB"],
-  others: ["Git", "Docker", "Visual Code", "Npm", "Figma", "Postman", "Bash", "Linux", "Ubuntu"]
+  others: [
+            "Git", "Docker", "Visual Code", "Npm","Figma",
+            "Postman", "Bash", "Linux", "Ubuntu"
+          ]
 }
 ```
 
