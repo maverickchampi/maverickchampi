@@ -18,19 +18,28 @@
 ```javascript
 const maverickchampi = {
   frontend: [
-              "ReactJs", "Javascript", "Typescript", "Redux",
-              "React Native", "Angular", "NextJs", "GraphQL", "Sass"
-            ],
-  backend: ["NodeJs", "ExpressJs", "NestJs"],
-  database: ["MySql", "PostgreSQL", "MongoDB"],
+    "ReactJs", "Javascript", "Typescript",
+    "Redux", "React Native", "Angular",
+    "NextJs", "GraphQL", "Sass"
+  ],
+  backend: [
+    "NodeJs", "ExpressJs", "NestJs",
+    "Java", "Spring"
+  ],
+  database: [
+    "MySql", "PostgreSQL", "MongoDB"
+  ],
   others: [
-            "Git", "Docker", "Visual Code", "Npm","Figma",
-            "Postman", "Bash", "Linux", "Ubuntu"
-          ]
+    "Git", "Docker", "Visual Code",
+    "Npm", "Figma", "Postman",
+    "Bash", "Linux", "Ubuntu"
+  ]
 }
 ```
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,angular,nextjs,graphql,sass,nodejs,express,nestjs,mysql,postgres,mongodb,git,docker,vscode,npm,figma,postman,bash,linux,ubuntu&perline=18" />
-</a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,ts,redux,angular,nextjs,graphql,sass" /></a>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,mysql,postgres,mongodb" /></a>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,npm,figma,postman,bash,linux,ubuntu" /></a>
 
